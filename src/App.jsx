@@ -6,6 +6,10 @@ import Technologies from './components/Technologies';
 import Experience from './components/Experience';
 import Projects from './components/Projects';
 import Contact from './components/Contact';
+import ReactGA from 'react-ga';
+
+const TRACKING_ID = "G-Q2WPE13J4P";
+ReactGA.initialize(TRACKING_ID);
 
 const App = () => {
   return (
