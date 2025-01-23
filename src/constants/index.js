@@ -3,7 +3,7 @@ import weather from "../assets/projects/weather.webp";
 import carparking from "../assets/projects/carparking.png";
 import chat from "../assets/projects/chat.png";
 import ubs from "../assets/companies/ubs.png";
-import WileyEdge from "../assets/companies/Wiley-Edge.png";
+import WileyEdge from "../assets/companies/Wiley Edge.png";
 import freelance from "../assets/companies/freelance.png";
 
 export const HERO_CONTENT = `Motivated and detail-oriented software developer with hands-on experience in building scalable, high-performance systems. I have contributed to the successful deployment of cloud-based solutions, backend architectures, and user-focused applications. My expertise spans scripting, automation, and full-stack development, complemented by a passion for delivering seamless, innovative user experiences. I strive to design and implement robust, maintainable software solutions that meet user needs and align with organizational goals.`;
@@ -16,7 +16,7 @@ Outside of coding, I enjoy hacking virtual machines and solving puzzles on Hack 
 
 export const EXPERIENCES = [
   {
-    year: "2023 July - 2024 Nov.",
+    year: "Aug 2023 - Nov 2024 (1 yr 4 mos)",
     image: ubs,
     role: "Storage Engineer",
     company: "UBS.",
@@ -24,7 +24,7 @@ export const EXPERIENCES = [
     technologies: ["Azure", "NetApp", "Kubernetes", "Terraform", "CI/CD", "Bash", "Powershell", "Linux", "Docker", "BlueXP" ],
   },
   {
-    year: "2022 - 2023",
+    year: "Aug 2022 - May 2023 (10 mos) ",
     image: WileyEdge,
     role: "Software Engineer",
     company: "Wiley Edge",
@@ -32,7 +32,7 @@ export const EXPERIENCES = [
     technologies: ["AWS", "Bash", "Python", "mySQL", "CI/CD"],
   },
   {
-    year: "2022",
+    year: "Nov 2021 - Jan 2022 (3 mos)",
     image: freelance,
     role: "Backend Developer",
     company: "Freelance",
@@ -76,3 +76,4 @@ export const CONTACT = {
   address: "London, UK",
   email: "diana.percatkina@outlook.com",
 };
+
