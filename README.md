@@ -10,3 +10,16 @@ Currently, two official plugins are available:
 ## Resources:
 <a href = 'https://motion.dev/docs/react-scroll-animations'>Motion</a>
 <a href='https://www.framer.com/developers/plugins/quick-start'>Framer</a>
+
+## Testing
+```powershell
+npm run dev
+```
+
+## Deployment
+
+! delete dist first
+
+```powershell
+npm run build
+```
